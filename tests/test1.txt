@@ -1,0 +1,29 @@
+a = 5;
+b = 10;
+
+print(a);
+print(b);
+
+func add(x, y) {
+    print(x + y);
+}
+
+func factorial(n) {
+    if (n == 0) {
+        return 1;
+    } else {
+        return n * factorial(n - 1);
+    }
+}
+
+add(a, b);
+print(factorial(5));
+
+if (a < b && b != 0) {
+    print(a * b);
+}
+
+while (a < 8) {
+    print(a);
+    a = a + 1;
+}

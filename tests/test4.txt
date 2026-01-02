@@ -1,0 +1,16 @@
+a = 2;
+b = 3;
+
+func square(x) {
+    print(x * x);
+}
+
+func sumSquares(x, y) {
+    square(x);
+    square(y);
+    print(x * x + y * y);
+}
+
+square(a);
+square(b);
+sumSquares(a, b);
