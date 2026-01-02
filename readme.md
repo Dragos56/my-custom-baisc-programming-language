@@ -1,10 +1,10 @@
-#Custom Programming Language
+# Custom Programming Language
 
 This project represents a simple custom programming language designed for educational purposes. The language focuses on clarity and ease of use, eliminating explicit data type declarations and using a minimal, readable syntax.
 
 It supports basic programming constructs such as variables, arithmetic and logical expressions, conditional statements, loops, and user-defined functions, including recursion. The language is intended to demonstrate fundamental concepts of language design and program execution.
 
-##How to Use
+## How to Use
 
 1. Modify the test files from the tests folder with your own code.
 
@@ -16,7 +16,7 @@ It supports basic programming constructs such as variables, arithmetic and logic
 ./proiect
 ```
 
-##What I Learned
+## What I Learned
 
 *Designing a simple programming language syntax and structure
 *Implementing control flow constructs such as conditionals and loops
